@@ -2,7 +2,7 @@
 
 FROM ubuntu:12.04
 
-MAINTAINER Greg Edwards "https://twitter.com/greglearns"
+MAINTAINER Theyagarajan S "https://twitter.com/taggy"
 
 RUN apt-get -y update
 RUN apt-get -y install python-software-properties
